@@ -1,10 +1,7 @@
 package com.samples.oroshisoba.parser;
 
-import static org.junit.Assert.*;
-
-import javax.swing.text.html.HTMLEditorKit.Parser;
-
-import mockit.Delegate;
+import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertNotNull;
 import mockit.Expectations;
 import mockit.Mocked;
 
